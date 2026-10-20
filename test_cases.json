@@ -1,0 +1,22 @@
+[
+  {
+    "dietary_preference": "omnivore",
+    "theme_requests": "random",
+    "additional_preferences": "none"
+  },
+  {
+    "dietary_preference": "vegetarian",
+    "theme_requests": "Italian, Asian, Mexican",
+    "additional_preferences": "no mushrooms"
+  },
+  {
+    "dietary_preference": "vegan",
+    "theme_requests": "random",
+    "additional_preferences": "high protein"
+  },
+  {
+    "dietary_preference": "keto",
+    "theme_requests": "Mediterranean, American",
+    "additional_preferences": "none"
+  }
+]
